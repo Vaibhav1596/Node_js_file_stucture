@@ -1,0 +1,17 @@
+Node js  Project structure set
+
+step 1 -> npm init -y ===create package.json file
+step 2 -> npm install express  == install dependency nd express
+step 3 -> npm install body-parser == data get krne ke liye
+step 4 -> npm install multer === file uploade library
+step 5 -> npm install mongodb === database install
+step 6 -> npm install mongoose
+
+step 7 mvm 
+create folder models => 
+create folder views
+create folder routes
+create folder config => .env file create
+
+node best  tuorial=>https://www.youtube.com/@ProgrammingExperience/videos
+
